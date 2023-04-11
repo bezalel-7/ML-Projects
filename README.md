@@ -6,7 +6,7 @@ This repository contains a collection of basic machine learning projects that I 
 
 The following projects are included in this repository:
 
-- Project 1: Linear Regression
+- Project 1: Logistic Regression
  
 
 ## Installation
